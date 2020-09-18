@@ -1,5 +1,4 @@
 body{
-  color: #40514E;
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
@@ -93,7 +92,7 @@ p{
 }
 
 hr{
-  border: dotted #EAF6F6 6px;
+  border: dotted #66BFBf 0.3em;
   border-bottom: none;
   width: 4%;
   margin: 4.3em auto;
