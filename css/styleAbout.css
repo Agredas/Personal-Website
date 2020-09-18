@@ -8,7 +8,7 @@ body{
 #header{
   display: flex;
   flex-direction: row;
-  height: 3em;
+  height: 4.3em;
   width: auto;
   background-color: #ddf3f5;
   justify-content: center;
@@ -26,10 +26,16 @@ body{
   margin: 1.5em;
   color: #11999E;
   font-family: 'Montserrat', sans-serif;
+  cursor: pointer;
 }
 
-.home{
-  color: #031e1f
+.aboutme{
+  color: #031e1f;
+  cursor: default;
+}
+
+.selft{
+  text-decoration: underline;
 }
 
 .menu:hover {
@@ -37,14 +43,34 @@ body{
 }
 
 #middle{
-  background-color: #ddf3f5;
-  position: relative;
-  padding-top: 6.25em;
+  margin: 6.2em 0;
 }
 
+.skill-row{
+  width: 50%;
+  margin: 4.3em auto 4.3em auto;
+  text-align: left;
+}
+
+.intro{
+  width: 25%;
+  margin: auto;
+}
+
+.skills-img{
+  width: 19%;
+  float: left;
+  margin-right: 1.8em;
+}
+
+.skills-design{
+width: 23%;
+float: right;
+margin-left: 1.8em;
+}
 
 h1{
-  margin: 50px auto 0 auto;
+  margin: 3.1em auto 0 auto;
   font-family: 'Sacramento', cursive;
   font-size: 5.6em;
   color: #66BFBf;
@@ -55,28 +81,28 @@ h2{
   font-family: 'Montserrat', sans-serif;
   color: #66BFBf;
   font-weight: normal;
-  padding-bottom: 0.62em;
+  padding-bottom: 0.6em;
 }
 
-.selft{
-  text-decoration: underline;
+h3{
+  color: #11999E;
 }
 
-.top-cloud{
-  position: absolute;
-  right: 18.7em;
-  top: 3em;
+p{
+  line-height: 1.5;
 }
 
-.bottom-cloud{
-  position: absolute;
-  left: 15.6em;
-  bottom: 18.7em;
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 4.3em auto;
 }
+
 
 #footer{
-  background-color: #ddf3f5;
   padding: 3.1em 0 3.1em 0;
+  background-color: #ddf3f5;
 }
 
 a{

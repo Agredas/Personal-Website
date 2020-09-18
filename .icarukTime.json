@@ -1,15 +1,18 @@
 {
-    "idleHeartbeats": 870,
-    "navigatingHeartbeats": 195,
-    "totalCodingHeartbeats": 3027,
+    "idleHeartbeats": 3906,
+    "navigatingHeartbeats": 587,
+    "totalCodingHeartbeats": 5724,
     "languageHeartbeats": {
-        "html": 1066,
-        "css": 1889,
+        "html": 2607,
+        "css": 3045,
         "scminput": 72
     },
     "fileHeartbeats": {
-        "html/index.html": 1066,
-        "css/style.css": 1889,
-        "scm\\git\\scm0\\input": 72
+        "html/index.html": 1389,
+        "css/style.css": 2498,
+        "scm\\git\\scm0\\input": 72,
+        "c:\\Users\\Usuario\\Desktop\\RetoFSD\\css\\style.css": 83,
+        "html/aboutme.html": 1218,
+        "css/styleAbout.css": 464
     }
 }
