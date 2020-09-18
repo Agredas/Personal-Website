@@ -1,9 +1,9 @@
 {
-    "idleHeartbeats": 6515,
-    "navigatingHeartbeats": 1091,
-    "totalCodingHeartbeats": 6982,
+    "idleHeartbeats": 6539,
+    "navigatingHeartbeats": 1092,
+    "totalCodingHeartbeats": 7067,
     "languageHeartbeats": {
-        "html": 3360,
+        "html": 3445,
         "css": 3415,
         "scminput": 72,
         "plaintext": 135
@@ -20,6 +20,6 @@
         "css/styleContact.css": 134,
         "css/styleHome.css": 166,
         "c:\\Users\\Usuario\\Desktop\\Personal-Website\\css\\styleContact.css.git": 90,
-        "index.html": 61
+        "index.html": 146
     }
 }
