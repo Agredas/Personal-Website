@@ -1,24 +1,25 @@
 {
-    "idleHeartbeats": 5730,
-    "navigatingHeartbeats": 920,
-    "totalCodingHeartbeats": 6502,
+    "idleHeartbeats": 6515,
+    "navigatingHeartbeats": 1091,
+    "totalCodingHeartbeats": 6982,
     "languageHeartbeats": {
-        "html": 2970,
-        "css": 3370,
+        "html": 3360,
+        "css": 3415,
         "scminput": 72,
-        "plaintext": 90
+        "plaintext": 135
     },
     "fileHeartbeats": {
-        "html/index.html": 1389,
+        "html/index.html": 1558,
         "css/style.css": 2498,
         "scm\\git\\scm0\\input": 72,
         "c:\\Users\\Usuario\\Desktop\\RetoFSD\\css\\style.css": 83,
         "html/aboutme.html": 1263,
         "css/styleAbout.css": 534,
         "c:\\Users\\Usuario\\Desktop\\Personal-Website\\html\\aboutme.html.git": 45,
-        "html/contact.html": 318,
-        "css/styleContact.css": 89,
+        "html/contact.html": 478,
+        "css/styleContact.css": 134,
         "css/styleHome.css": 166,
-        "c:\\Users\\Usuario\\Desktop\\Personal-Website\\css\\styleContact.css.git": 45
+        "c:\\Users\\Usuario\\Desktop\\Personal-Website\\css\\styleContact.css.git": 90,
+        "index.html": 61
     }
 }

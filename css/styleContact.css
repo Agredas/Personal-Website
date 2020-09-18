@@ -41,9 +41,9 @@ body{
   color: #031e1f;
 }
 
-.contact-me{
+#contact-me{
   width: 23%;
-  margin: 60px auto 60px;
+  margin: 3.7em auto 3.7em;
 }
 
 h2{
