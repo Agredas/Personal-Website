@@ -1,0 +1,15 @@
+{
+    "idleHeartbeats": 770,
+    "navigatingHeartbeats": 174,
+    "totalCodingHeartbeats": 2773,
+    "languageHeartbeats": {
+        "html": 1066,
+        "css": 1687,
+        "scminput": 20
+    },
+    "fileHeartbeats": {
+        "html/index.html": 1066,
+        "css/style.css": 1687,
+        "scm\\git\\scm0\\input": 20
+    }
+}
