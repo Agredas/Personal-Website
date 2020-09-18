@@ -1,12 +1,12 @@
 {
-    "idleHeartbeats": 5362,
-    "navigatingHeartbeats": 833,
-    "totalCodingHeartbeats": 6403,
+    "idleHeartbeats": 5730,
+    "navigatingHeartbeats": 920,
+    "totalCodingHeartbeats": 6502,
     "languageHeartbeats": {
-        "html": 2925,
-        "css": 3361,
+        "html": 2970,
+        "css": 3370,
         "scminput": 72,
-        "plaintext": 45
+        "plaintext": 90
     },
     "fileHeartbeats": {
         "html/index.html": 1389,
@@ -16,8 +16,9 @@
         "html/aboutme.html": 1263,
         "css/styleAbout.css": 534,
         "c:\\Users\\Usuario\\Desktop\\Personal-Website\\html\\aboutme.html.git": 45,
-        "html/contact.html": 273,
-        "css/styleContact.css": 80,
-        "css/styleHome.css": 166
+        "html/contact.html": 318,
+        "css/styleContact.css": 89,
+        "css/styleHome.css": 166,
+        "c:\\Users\\Usuario\\Desktop\\Personal-Website\\css\\styleContact.css.git": 45
     }
 }

@@ -46,6 +46,28 @@ body{
   margin: 60px auto 60px;
 }
 
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBf;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3{
+  color: #11999E;
+}
+
+p{
+  line-height: 1.5;
+}
+
+
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
 
 .btn {
   background: #11cdd4;
