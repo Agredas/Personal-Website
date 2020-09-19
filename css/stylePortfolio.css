@@ -27,7 +27,7 @@ body{
   cursor: pointer;
 }
 
-.contact{
+.portfolio{
   color: #031e1f;
   cursor: default;
 }
@@ -40,7 +40,54 @@ body{
   color: #031e1f;
 }
 
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBf;
+  font-weight: normal;
+  padding-bottom: 0.6em;
+}
 
+#middle{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  height: 38em;
+  width: 100%;
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBf;
+  font-weight: normal;
+}
+
+.rows{
+  display:flex;
+  flex-direction: row;
+}
+
+.console{
+  width: 50em;
+}
+
+.simon{
+  width: 50em;
+}
+
+.row1{
+  margin-top: 2em;
+}
+
+.row2{
+  height: 33.7em;
+}
+
+img{
+  margin-top: 1em;
+  height: 33em;
+  margin-left: 3.5em;
+}
+
+.row{
+  margin-top: 15em;
+}
 
 #footer{
   padding: 3.1em 0 3.1em 0;
