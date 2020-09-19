@@ -17,13 +17,12 @@ body{
 .header2{
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
   height: 3em;
   width: auto;
 }
 
 .menu{
-  margin: 1.5em;
+  margin-top: 1.5em;
   color: #11999E;
   font-family: 'Montserrat', sans-serif;
   cursor: pointer;
@@ -43,6 +42,7 @@ body{
 }
 
 #middle{
+  justify-content: center;
   width: auto;
   background-color: #ddf3f5;
   position: relative;
@@ -85,6 +85,7 @@ h2{
 }
 
 #footer{
+  justify-content: center;
   width: auto;
   padding: 3.1em 0 3.1em 0;
 }

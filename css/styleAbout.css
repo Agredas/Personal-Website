@@ -7,7 +7,7 @@ body{
 #header{
   display: flex;
   flex-direction: row;
-  height: 4.3em;
+  height: 3em;
   width: auto;
   background-color: #ddf3f5;
   justify-content: center;
@@ -16,13 +16,12 @@ body{
 .header2{
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
   height: 3em;
   width: auto;
 }
 
 .menu{
-  margin: 1.5em;
+  margin-top: 1.5em;
   color: #11999E;
   font-family: 'Montserrat', sans-serif;
   cursor: pointer;
