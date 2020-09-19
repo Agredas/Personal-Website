@@ -1,5 +1,6 @@
 body{
   margin: 0;
+  width: auto;
   text-align: center;
   font-family: 'Merriweather', serif;
 }
@@ -42,6 +43,7 @@ body{
 }
 
 #middle{
+  width: auto;
   background-color: #ddf3f5;
   position: relative;
   padding-top: 6.25em;
@@ -49,12 +51,14 @@ body{
 
 
 h1{
+  width: auto;
   font-family: 'Sacramento', cursive;
   font-size: 5.6em;
   color: #66BFBf;
 }
 
 h2{
+  width: auto;
   font-family: 'Montserrat', sans-serif;
   color: #66BFBf;
   font-weight: normal;
@@ -66,15 +70,22 @@ h2{
   position: absolute;
   right: 18.7em;
   top: 3em;
+  width: 10%;
 }
 
 .bottom-cloud{
   position: absolute;
   left: 15.6em;
   bottom: 18.7em;
+  width: 10%;
+}
+
+.mountain{
+  width: 50%;
 }
 
 #footer{
+  width: auto;
   padding: 3.1em 0 3.1em 0;
 }
 
