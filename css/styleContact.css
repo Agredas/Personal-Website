@@ -7,7 +7,7 @@ body{
 #header{
   display: flex;
   flex-direction: row;
-  height: 3em;
+  height: 4.2em;
   width: auto;
   background-color: #ddf3f5;
   justify-content: center;
@@ -43,10 +43,7 @@ body{
 #contact-me{
   width: 23%;
   height: 23%;
-  margin: 3.7em auto 3.7em;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
+  margin: 10em auto 14.3em;
 }
 
 h2{
@@ -72,9 +69,6 @@ a{
   text-decoration: none;
 }
 
-.button{
-  height: 10em;
-}
 
 .btn {
   background: #11cdd4;
@@ -100,6 +94,11 @@ a{
   background-image: linear-gradient(to bottom, #30e3cb, #2BC4AD);
   text-decoration: none;
 }
+
+:active {
+	position:relative;
+	top:0.06em;
+} 
 
 
 

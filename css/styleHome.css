@@ -8,7 +8,7 @@ body{
 #header{
   display: flex;
   flex-direction: row;
-  height: 3em;
+  height: 4.2em;
   width: auto;
   background-color: #ddf3f5;
   justify-content: center;

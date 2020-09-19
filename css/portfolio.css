@@ -27,7 +27,7 @@ body{
   cursor: pointer;
 }
 
-.aboutme{
+.contact{
   color: #031e1f;
   cursor: default;
 }
@@ -40,62 +40,6 @@ body{
   color: #031e1f;
 }
 
-#middle{
-  margin: 6.2em 0;
-}
-
-.skill-row{
-  width: 50%;
-  margin: 4.3em auto 4.3em auto;
-  text-align: left;
-}
-
-.intro{
-  width: 25%;
-  margin: auto;
-}
-
-.skills-img{
-  width: 19%;
-  float: left;
-  margin-right: 1.8em;
-}
-
-.skills-design{
-width: 23%;
-float: right;
-margin-left: 1.8em;
-}
-
-h1{
-  margin: 3.1em auto 0 auto;
-  font-family: 'Sacramento', cursive;
-  font-size: 5.6em;
-  color: #66BFBf;
-  line-height: 2;
-}
-
-h2{
-  font-family: 'Montserrat', sans-serif;
-  color: #66BFBf;
-  font-weight: normal;
-  padding-bottom: 0.6em;
-}
-
-h3{
-  color: #11999E;
-}
-
-p{
-  line-height: 1.5;
-}
-
-hr{
-  border: dotted #66BFBf 0.3em;
-  border-bottom: none;
-  width: 4%;
-  margin: 4.3em auto;
-}
 
 
 #footer{
