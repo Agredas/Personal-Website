@@ -50,13 +50,12 @@ h2{
 #middle{
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
   height: 38em;
-  width: 100%;
+  width: auto;
   font-family: 'Montserrat', sans-serif;
   color: #66BFBf;
-  background-color: red;
   font-weight: normal;
+  justify-content: space-around;
 }
 
 .rows{
@@ -68,9 +67,6 @@ h2{
   width: 50em;
 }
 
-.simon{
-  width: 50em;
-}
 
 .row1{
   margin-top: 2em;
@@ -84,10 +80,6 @@ img{
   margin-top: 1em;
   height: 33em;
   margin-left: 3.5em;
-}
-
-.row{
-  margin-top: 15em;
 }
 
 #footer{

@@ -1,12 +1,12 @@
 {
-    "idleHeartbeats": 11761,
-    "navigatingHeartbeats": 2547,
-    "totalCodingHeartbeats": 11687,
+    "idleHeartbeats": 13669,
+    "navigatingHeartbeats": 2714,
+    "totalCodingHeartbeats": 12921,
     "languageHeartbeats": {
-        "html": 5465,
-        "css": 5869,
+        "html": 6005,
+        "css": 6518,
         "scminput": 173,
-        "plaintext": 180
+        "plaintext": 225
     },
     "fileHeartbeats": {
         "html/index.html": 1558,
@@ -17,14 +17,15 @@
         "css/styleAbout.css": 534,
         "c:\\Users\\Usuario\\Desktop\\Personal-Website\\html\\aboutme.html.git": 45,
         "html/contact.html": 847,
-        "css/styleContact.css": 992,
-        "css/styleHome.css": 810,
+        "css/styleContact.css": 1088,
+        "css/styleHome.css": 1039,
         "c:\\Users\\Usuario\\Desktop\\Personal-Website\\css\\styleContact.css.git": 90,
-        "index.html": 347,
+        "index.html": 887,
         "Home.html": 125,
         "html/portfolio.html": 1325,
         "css/portfolio.css": 89,
-        "css/stylePortfolio.css": 863,
-        "c:\\Users\\Usuario\\Desktop\\Personal-Website\\css\\stylePortfolio.css.git": 45
+        "css/stylePortfolio.css": 1187,
+        "c:\\Users\\Usuario\\Desktop\\Personal-Website\\css\\stylePortfolio.css.git": 45,
+        "c:\\Users\\Usuario\\Desktop\\Personal-Website\\html\\portfolio.html.git": 45
     }
 }

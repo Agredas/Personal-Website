@@ -19,6 +19,7 @@ body{
   flex-direction: row;
   height: 3em;
   width: auto;
+  justify-content: space-around;
 }
 
 .menu{
@@ -47,13 +48,14 @@ body{
   background-color: #ddf3f5;
   position: relative;
   padding-top: 6.25em;
+  height: 35em;
 }
 
 
 h1{
   width: auto;
-  font-family: 'Sacramento', cursive;
-  font-size: 5.6em;
+  font-family: 'Dosis', sans-serif;
+  font-size: 4.5em;
   color: #66BFBf;
 }
 
@@ -66,22 +68,25 @@ h2{
 
 
 
-.top-cloud{
+.logo-html{
   position: absolute;
   right: 18.7em;
   top: 3em;
   width: 10%;
 }
 
-.bottom-cloud{
+.logo-css{
   position: absolute;
   left: 15.6em;
   bottom: 18.7em;
   width: 10%;
 }
 
-.mountain{
-  width: 50%;
+.logo-js{
+  top: 32em;
+  right: 8em;
+  width: 10%;
+  position: absolute;
 }
 
 #footer{
