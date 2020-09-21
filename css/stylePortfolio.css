@@ -48,7 +48,6 @@ h2{
 }
 
 #middle{
-  display: flex;
   flex-direction: row;
   height: 38em;
   width: auto;
