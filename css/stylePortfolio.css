@@ -2,7 +2,6 @@ body{
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
-  
 }
 
 #header{
@@ -56,18 +55,8 @@ h2{
   font-weight: normal;
   display: flex;
   justify-content: center;
-  align-items: center;
+  margin-bottom: 5.3em;
 }
-
-.rows{
-  display:flex;
-  flex-direction: row;
-}
-
-.console{
-  width: 50em;
-}
-
 
 .row1{
   margin-top: 2em;
@@ -75,6 +64,10 @@ h2{
 
 .row2{
   height: 33.7em;
+}
+
+.row3{
+  margin-top: 2em;
 }
 
 img{
