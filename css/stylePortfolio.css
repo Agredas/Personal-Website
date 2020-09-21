@@ -2,6 +2,7 @@ body{
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
+  
 }
 
 #header{
@@ -48,13 +49,14 @@ h2{
 }
 
 #middle{
-  flex-direction: row;
   height: 38em;
   width: auto;
   font-family: 'Montserrat', sans-serif;
   color: #66BFBf;
   font-weight: normal;
-  justify-content: space-around;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .rows{
